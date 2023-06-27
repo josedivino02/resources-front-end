@@ -1,0 +1,32 @@
+@import url("./global/global.css");
+@import url("./global/header.css");
+@import url("./global/footer.css");
+
+@import url("./util/simple-anime.css");
+@import url("./util/components.css");
+@import url("./util/typography.css");
+@import url("./util/color.css");
+@import url("./util/formulario.css");
+
+@import url("./home/intro.css");
+@import url("./home/technology.css");
+@import url("./home/partners.css");
+@import url("./home/testimony.css");
+
+@import url("./bicycles/bicycle-list.css");
+@import url("./bicycles/bicycles.css");
+
+@import url("./bicycle/bicycle.css");
+@import url("./bicycle/security.css");
+
+@import url("./contact/contact.css");
+@import url("./contact/stores.css");
+
+@import url("./budget/budget.css");
+
+@import url("./safe/safes.css");
+@import url("./safe/benefits.css");
+@import url("./safe/questions.css");
+
+
+@import url("./terms/terms.css");
